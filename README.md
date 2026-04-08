@@ -7,3 +7,9 @@
 
 * The main purpose behind doing this is avoid manual work which was slow and start automating to save time and energy.
 
+# The core problem Shell sscripts is solving...
+
+-Question- “How do I make the computer do a sequence of tasks automatically, reliably, and repeatedly?”
+
+-Ans - Shell scripting = writing a file that contains a sequence of commands + logic to automate tasks.
+
