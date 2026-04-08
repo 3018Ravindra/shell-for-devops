@@ -26,3 +26,24 @@ Shell → interprets
 Kernel → actually does the work
 
 Hardware → executes
+
+
+# Why shell exists?
+
+- Without shell:
+
+You cannot control system easily
+
+You must write low-level code every time
+
+# Shell gives:
+
+Simplicity
+
+Speed
+
+Automation capability
+
+
+# Commands are not magic — they are just programs stored in the system.
+
