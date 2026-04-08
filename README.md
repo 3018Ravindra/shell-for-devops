@@ -13,3 +13,16 @@
 
 -Ans - Shell scripting = writing a file that contains a sequence of commands + logic to automate tasks.
 
+- Shell is a program that takes your commands and gives them to the operating system to execute.
+
+# A simple workflow of shell 
+
+- You → Shell → Kernel → Hardware
+
+You → give command
+
+Shell → interprets
+
+Kernel → actually does the work
+
+Hardware → executes
