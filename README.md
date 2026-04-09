@@ -154,3 +154,9 @@ echo "Hello $name"
 "Ravindra" → value
 
 $name → access value
+
+# what are conditions 
+
+- definition :
+
+"A condition is a test that returns true or false"
