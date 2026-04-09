@@ -86,3 +86,17 @@ Same as:
 
 But:
 👉 Shell interprets it as instructions
+
+# What is Shebang (#!)
+
+#!/bin/bash 
+
+What does this mean?
+
+#! → signal to system: “this is a script”
+
+/bin/bash → path to interpreter
+
+So you're saying:
+
+“Run this file using the bash shell”
