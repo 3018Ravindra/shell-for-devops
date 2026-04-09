@@ -100,3 +100,18 @@ What does this mean?
 So you're saying:
 
 “Run this file using the bash shell”
+
+# Execution flow
+
+When you run a script: ./myscript.sh
+
+System does:
+
+Reads #!
+
+Finds /bin/bash
+
+Passes your script to bash
+
+Bash executes line by line
+
