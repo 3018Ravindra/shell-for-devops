@@ -72,3 +72,17 @@ Now instead of 3 commands…
 👉 You run 1 file
 
 💥 Automation begins
+
+First Principle Insight
+
+A script is nothing special.
+
+❗ It is just a text file with commands inside it
+
+Same as:
+
+.txt
+.log
+
+But:
+👉 Shell interprets it as instructions
