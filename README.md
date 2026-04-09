@@ -115,3 +115,23 @@ Passes your script to bash
 
 Bash executes line by line
 
+# Variable in shell scripting
+
+What if data changes?
+
+Example:
+
+Username changes
+
+File name changes
+
+Path changes
+
+👉 You don’t want to rewrite the script every time
+
+💡 Solution
+
+Store data in a container and reuse it
+
+That container = Variable
+
