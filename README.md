@@ -166,3 +166,13 @@ example:
 -  IF something is true → do this  
 
 -  ELSE → do something else
+
+# Important Operators
+🔹 Numbers
+-eq → equal
+
+-ne → not equal
+
+-gt → greater than
+
+-lt → less than
