@@ -160,3 +160,9 @@ $name → access value
 - definition :
 
 "A condition is a test that returns true or false"
+
+example:
+
+-  IF something is true → do this  
+
+-  ELSE → do something else
