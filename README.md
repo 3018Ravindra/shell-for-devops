@@ -135,3 +135,22 @@ Store data in a container and reuse it
 
 That container = Variable
 
+- for example 
+
+instead of writing 
+
+echo "hello ravindra"
+
+- We say 
+
+name="ravindra"
+
+echo "Hello $name"
+
+# what does it mean
+
+- name → variable
+
+"Ravindra" → value
+
+$name → access value
