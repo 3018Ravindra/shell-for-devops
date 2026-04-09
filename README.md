@@ -47,3 +47,28 @@ Automation capability
 
 # Commands are not magic — they are just programs stored in the system.
 
+- instead of typing this every time- 
+
+"cd /var/log
+
+ls
+
+echo "Done" 
+
+You put it inside a file:
+
+cd /var/log
+
+ls
+
+echo "Done"
+
+Save it as: 
+
+myscript.sh
+
+Now instead of 3 commands…
+
+👉 You run 1 file
+
+💥 Automation begins
